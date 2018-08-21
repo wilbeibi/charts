@@ -1,0 +1,8 @@
+.idea
+*.lock
+*.tgz
+index.yaml
+.DS_Store
+.vscode
+.project
+.settings
